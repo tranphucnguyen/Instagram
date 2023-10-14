@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.fab.fa-instagram {
+    font-size: 5em; /* Điều chỉnh giá trị theo nhu cầu */
+    color:#bc2a8d;
+
+}
